@@ -1,4 +1,4 @@
-### **Introduction**
+# Recognize Clothing Items
 The Clothing Item Recognition project focuses on the field of **AI**, **Machine Learning**, and **Deep Learning**, specifically in the domain of **Computer Vision**. This project involves building a **Convolutional Neural Network (CNN) classifier** to identify fashion items from the widely-used Fashion MNIST dataset, which consists of 28x28 grayscale images of clothing and accessories across ten categories, such as shirts, shoes, and bags.
 
 Developed in **Python** using the **TensorFlow** module, the project emphasizes key aspects of machine learning, including model architecture design, hyperparameter tuning, and performance evaluation. It serves as an engaging introduction to neural networks while demonstrating practical applications of AI in recognizing and categorizing fashion items, showcasing its potential for solving real-world problems in industries like retail and e-commerce.
